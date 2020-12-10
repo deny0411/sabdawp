@@ -2,7 +2,7 @@
 
 /**
  * Name: Popular Posts widget.
- * Author: https://www.roytuts.com
+ * Author: https://sabdawp.com
  */
 class Popular_Post_Widget extends WP_Widget {
 
